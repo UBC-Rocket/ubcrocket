@@ -1,0 +1,36 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+
+  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+
+  <!-- Google fonts -->
+  <link rel="stylesheet" href="{{ "https://fonts.googleapis.com/css?family=Roboto:400,300,500,700" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ "https://fonts.googleapis.com/css?family=Montserrat:400,700" | prepend: site.baseurl }}">
+
+  <!-- Bootstrap core CSS -->
+  <link rel="stylesheet" href="{{ "/css/bootstrap.min.css" | prepend: site.baseurl }}">
+
+  <!-- Animate -->
+  <link rel="stylesheet" href="{{ "/css/animate.css" | prepend: site.baseurl }}">
+  
+  <!-- Icon-font -->
+  <link rel="stylesheet" href="{{ "/css/material-design-iconic-font.min.css" | prepend: site.baseurl }}">
+
+  <!--owl carousel css-->
+  <link rel="stylesheet" href="{{ "/css/owl.carousel.css" | prepend: site.baseurl }}" media="screen">
+  <link rel="stylesheet" href="{{ "/css/owl.theme.css" | prepend: site.baseurl }}" media="screen">
+
+  <!-- Custom styles for this template -->
+  <link rel="stylesheet" href="{{ "/css/style.css" | prepend: site.baseurl }}">
+
+  <!-- Color css -->
+  <link rel="stylesheet" href="{{ "/css/colors/default.css" | prepend: site.baseurl }}">
+
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+</head>
