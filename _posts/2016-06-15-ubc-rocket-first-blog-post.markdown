@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 lead_title: "UBC Rocket"
-title:	"Second Blog Post"
+title:"Second Blog Post"
 date:	2016-06-15  -0700
 author:	Christel Nicolas
 image_filename:	prop.jpg
