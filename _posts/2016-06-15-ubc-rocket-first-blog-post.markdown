@@ -1,9 +1,9 @@
-﻿---
+---
 layout: post
 lead_title: "UBC Rocket"
 title:  "First Blog Post"
 date:   2016-06-15
-author:	Simon Bambey and Christel Nicolas
+author:	Christel Nicolas
 image_filename:	one.jpg
 ---
 Welcome! 
