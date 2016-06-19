@@ -1,31 +1,21 @@
----
+﻿---
 layout: post
 lead_title: "UBC Rocket"
 title:  "First Blog Post"
 date:   2016-06-15
-author:	Simon Bambey
-image_filename:	prop.jpg
+author:	Simon Bambey and Christel Nicolas
+image_filename:	one.jpg
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Welcome! 
 
-#### Testing
+#### Hello! 
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Welcome to the UBC Rocket blog where updates about our team and projects will be posted! Currently our team consists of about twenty members from various engineering disciplines. Fueled with passion, our team will be designing and building a rocket to compete with other students around the world in the 2017 Intercollegiate Rocket Engineering Competition in Utah. Our goal is to launch a rocket 10 000ft in the air with a payload and recover it fully intact.
 
-![image-title-here](/images/blog/blog-detail.jpg){:class="img-responsive center-block"}
+If you are interested in helping the team, whether it be by being a member or sponsorship, please contact hello@ubcrocket.com.
 
-Jekyll also offers powerful support for code snippets:
+We are very excited to rock-et and see what we will be able to accomplish this year. Stay tuned! 
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+![photo by Peter Thoeny](/images/blog/two.jpg){:class="img-responsive center-block"}
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
