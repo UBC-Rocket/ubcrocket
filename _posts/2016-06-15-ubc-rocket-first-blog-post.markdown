@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 lead_title: "UBC Rocket"
 title:"Second Blog Post"
