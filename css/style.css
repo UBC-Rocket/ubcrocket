@@ -52,7 +52,7 @@ iframe {
 
 /*======= Helper classes ======== */
 .section {
-  padding-top: 50px;
+  padding-top: 100px;
   padding-bottom: 80px;
 }
 
@@ -552,6 +552,10 @@ iframe {
   line-height: 24px;
   width: 90%;
   margin: 10px auto;
+}
+
+.image-caption {
+  font-size: 12px;
 }
 
 .feature-detail ul li {
