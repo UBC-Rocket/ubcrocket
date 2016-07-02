@@ -12,7 +12,7 @@ body {
   font-family: 'Roboto', sans-serif;
   color: #4c5667;
   background: #fff;
-  font-size: 15px;
+  font-size: 16px;
   line-height: 22px;
   overflow-x:hidden;
 }
@@ -532,6 +532,10 @@ iframe {
   margin: 30px auto 40px auto;
   font-size: 16px;
   width: 85%;
+}
+.highlight {
+  color: #f16000;
+  font-weight: 900;
 }
 
 /*======= Features =======*/
