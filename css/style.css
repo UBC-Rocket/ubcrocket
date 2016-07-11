@@ -56,6 +56,11 @@ iframe {
   padding-bottom: 80px;
 }
 
+.short-section {
+  padding-top: 50px;
+  padding-bottom: 80px;
+}
+
 .bg-gray {
   background-color: #fafafa;
   border-bottom: 1px solid #f5f5f5;
@@ -527,6 +532,10 @@ iframe {
   padding: 160px 0px 115px 0px;
 }
 
+.home-wrapper-xs {
+  padding: 110px 0px 65px 0px;
+}
+
 .home-wrapper p {
   line-height: 24px;
   margin: 30px auto 40px auto;
@@ -738,6 +747,10 @@ iframe {
   margin-left: 40px;
   color: #9aa7af;
   margin-bottom: 40px;
+}
+
+.table-faq {
+  margin-top:50px;
 }
 
 
