@@ -477,7 +477,7 @@ iframe {
   font-size: 22px;
   color: #374760 !important;
   letter-spacing: 1px;
-  padding-top: 12px;
+  margin-right: 20px;
   font-family: 'Montserrat', sans-serif;
 }
 
@@ -490,6 +490,11 @@ iframe {
   padding: 0px 8px;
   text-align: center;
   border-radius: 3px;
+}
+
+.logo-image {
+  height: 50px;
+  width: auto;
 }
 
 .navbar-toggle {
@@ -725,6 +730,14 @@ iframe {
 
 /*======= FAQ ======*/
 
+.quick-find {
+  display: block;
+  border: 1px solid black;
+  width: 300px;
+  padding: 20px;
+  margin:0 auto 0 auto;
+  margin-top: 100px;
+}
 .question-q-box {
   height: 30px;
   width: 30px;
@@ -747,10 +760,6 @@ iframe {
   margin-left: 40px;
   color: #9aa7af;
   margin-bottom: 40px;
-}
-
-.table-faq {
-  margin-top:50px;
 }
 
 
