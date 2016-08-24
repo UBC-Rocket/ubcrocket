@@ -1003,6 +1003,29 @@ iframe {
     width: 33.2%;
 }
 /* Blog-detail --*/
+
+.blog-detail em {
+  color:#CA2C0A;
+  font-weight: bold;
+  font-style: normal;
+}
+.h-crimson {
+  color:#CA2C0A;
+  font-weight: bold;
+  font-style: normal;
+}
+.h-crimson:hover {
+  color:#990000;
+}
+.sponsor-logos {
+  margin-right: 100px;
+  max-height:300px;
+  width:auto;
+}
+.small {
+  font-size: 11px;
+}
+
 .blog-detail-box {
   padding-right: 30px;
 }
