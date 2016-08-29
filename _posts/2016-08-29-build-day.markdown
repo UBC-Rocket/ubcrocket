@@ -23,10 +23,10 @@ Again, a huge thank you to [Imperial Hobbies][imperial]{:class="h-crimson"} and 
 Stay tuned for Launch Day! 
 
 
-(ubcrocket/images/blog/group-picture.jpg){:class="img-responsive center-block"}
+(/images/blog/group-picture.jpg){:class="img-responsive center-block"}
 <span class="small">Team with their rockin' rockets.</span>
 
-(ubcrocket/images/blog/stability-test.jpg){:class="img-responsive center-block"}
+(/images/blog/stability-test.jpg){:class="img-responsive center-block"}
 <span class="small">Stability test.</span>
 
 [email]:  			mailto:hello@ubcrocket.com
