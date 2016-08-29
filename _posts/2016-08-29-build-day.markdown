@@ -22,8 +22,6 @@ Again, a huge thank you to [Imperial Hobbies][imperial]{:class="h-crimson"} and 
 
 Stay tuned for Launch Day! 
 
-![photo by Peter Thoeny](/images/blog/two.jpg){:class="img-responsive center-block"}
-<span class="small">Photo unmodified by Peter Thoeny found on [Flickr][flickr].</span>
 
 (/images/blog/group-picture.jpg){:class="img-responsive center-block"}
 <span class="small">Team with their rockin' rockets.</span>
