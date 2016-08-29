@@ -26,7 +26,7 @@ Stay tuned for Launch Day!
 (/images/blog/group-picture.jpg){:class="img-responsive center-block"}
 <span class="small">Team with their rockin' rockets.</span>
 
-(/images/blog/stability-test.jpg){:class="img-responsive center-block"}
+(/images/blog/stability-test.jpg)
 <span class="small">Stability test.</span>
 
 [email]:  			mailto:hello@ubcrocket.com
