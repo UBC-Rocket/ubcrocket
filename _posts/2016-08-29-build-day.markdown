@@ -22,14 +22,14 @@ Again, a huge thank you to [Imperial Hobbies][imperial]{:class="h-crimson"} and 
 
 Stay tuned for Launch Day! 
 
-<h3>Event sponsors:</h3>
+![photo by Peter Thoeny](/images/blog/two.jpg){:class="img-responsive center-block"}
+<span class="small">Photo unmodified by Peter Thoeny found on [Flickr][flickr].</span>
 
+(/images/blog/group-picture.jpg){:class="img-responsive center-block"}
+<span class="small">Team with their rockin' rockets.</span>
 
-<a href="http://www.imperialhobbies.ca/">![Imperial Hobbies logo](/images/blog/imperial.jpg){:class="sponsor-logos"}</a>
-<a href="http://www.sunwardhobbies.ca/">![Sunward Hobbies logo](/images/blog/sunward.png){:class="sponsor-logos"}</a>
-
-<span class="small">[Title image][title-image] unmodified by Nick Nguyen.</span>
-
+(images/blog/stability-test.jpg){:class="img-responsive center-block"}
+<span class="small">Stability test.</span>
 
 [email]:  			mailto:hello@ubcrocket.com
 [imperial]: 		http://www.imperialhobbies.ca/
