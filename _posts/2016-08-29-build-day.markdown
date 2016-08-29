@@ -1,0 +1,37 @@
+---
+layout: post
+lead_title: "Build Day"
+title:  ""
+date:   2016-08-29
+author:	Christel Nicolas
+image_filename:	galaxy-3000.jpg
+---
+
+Hello!
+-------
+Thank you to everyone who came out on Build Day! We are so glad to have met all of you in this team bonding event. Four fantastic rockets were built by 20 of our own UBC students who divided themselves into teams of five. These rockets were snazzily decorated in bright and loud colours, and were in various sizes (with one towering at 6ft!) as each team chose their own rocket kit to build from, and assembled and decorated according to their vision.  
+
+Build day allowed students to gain hands on experience working with the rocket motor, and gave them an opportunity to perform stability tests using a string and spinning the rocket around.
+The teams also familiarized themselves using OpenRocket software to conduct some rocket analysis and simulate flight. 
+
+At the end of the day, we had a successful wet dress rehearsal at the beach, just before sunset with one of the rockets. 
+
+UBC Rocket would like to thank Geering Up for lending us their space and materials for the day. 
+
+Again, a huge thank you to [Imperial Hobbies][imperial]{:class="h-crimson"} and [Sunward Hobbies][sunward]{:class="h-crimson"} for their donation and for making the event happen!!
+
+Stay tuned for Launch Day! 
+
+<h3>Event sponsors:</h3>
+
+
+<a href="http://www.imperialhobbies.ca/">![Imperial Hobbies logo](/images/blog/imperial.jpg){:class="sponsor-logos"}</a>
+<a href="http://www.sunwardhobbies.ca/">![Sunward Hobbies logo](/images/blog/sunward.png){:class="sponsor-logos"}</a>
+
+<span class="small">[Title image][title-image] unmodified by Nick Nguyen.</span>
+
+
+[email]:  			mailto:hello@ubcrocket.com
+[imperial]: 		http://www.imperialhobbies.ca/
+[sunward]: 			http://www.sunwardhobbies.ca/
+[title-image]:	https://www.flickr.com/photos/osunick/3126963605/in/photolist-5LjvkB-3jgAPm-6LmM7o-uhu5aQ-iw5dU-iw5gM-6BJjMA-hS3Tg-4YjjvY-kanTr-kanUP-jwpFH-5RV54-6kvtdc-9Wk2qT-cNcL7u-cVC13h-f54NzP-6FRf-2Cq2d-FR1JP-6mNHcj-cVC1a7-9Xp1fH-bYk2Dj-5fy1Y8-4Mx2rz-aNk2Bc-2CP9-cUfCfJ-DmnAU-9fF33u-kanWe-9RL7m-bjYz34-Hxvkm-6LmM87-bjYy5T-4aC8y-4yGPZR-6BEbxT-4yGQeK-auMdhP-obs73m-4NTv5z-bPyGNB-dEphto-auMcux-4ZeEe4-9RKS6
