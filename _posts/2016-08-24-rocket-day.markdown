@@ -1,7 +1,7 @@
 ---
 layout: post
-lead_title: "Rocket Day"
-title:  ""
+lead_title: ""
+title:  "Rocket Day"
 date:   2016-08-24
 author:	Christel Nicolas
 image_filename:	rocket-on-pad.jpg
