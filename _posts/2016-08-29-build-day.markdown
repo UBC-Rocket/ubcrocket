@@ -29,6 +29,9 @@ Stay tuned for Launch Day!
 ![photo](/images/blog/stability-test.jpg){:class="img-responsive center-block"}
 <span class="small">Stability test.</span>
 
+![photo](/image/blog/fin-test.jpg){:class="img-responsive center-block"}
+<span class="small">Fin test.</span>
+
 [email]:  			mailto:hello@ubcrocket.com
 [imperial]: 		http://www.imperialhobbies.ca/
 [sunward]: 			http://www.sunwardhobbies.ca/
