@@ -1,7 +1,7 @@
 ---
 layout: post
-lead_title: "Build Day"
-title:  ""
+lead_title: ""
+title:  "Build Day"
 date:   2016-08-29
 author:	Christel Nicolas
 image_filename:	galaxy-3000.jpg
@@ -29,7 +29,7 @@ Stay tuned for Launch Day!
 ![photo](/images/blog/stability-test.jpg){:class="img-responsive center-block"}
 <span class="small">Stability test.</span>
 
-![photo](/image/blog/fin-test.jpg){:class="img-responsive center-block"}
+![photo](/images/blog/fin-test.jpg){:class="img-responsive center-block"}
 <span class="small">Fin test.</span>
 
 [email]:  			mailto:hello@ubcrocket.com
