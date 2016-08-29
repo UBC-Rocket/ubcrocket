@@ -9,19 +9,19 @@ image_filename:	galaxy-3000.jpg
 
 Hello!
 -------
-Thank you to everyone who came out on Build Day! We are so glad to have met all of you in this team bonding event. Four fantastic rockets were built by 20 of our own UBC students who divided themselves into teams of five. These rockets were snazzily decorated in bright and loud colours, and were in various sizes (with one towering at 6ft!) as each team chose their own rocket kit to build from, and assembled and decorated according to their vision.  
+Thank you to everyone who came out on Build Day! We are so glad to have met all of you at this team bonding event. Four fantastic rockets were built by 20 of our own UBC students. The rockets were snazzily decorated in bright and loud colours, and came in various sizes, with one towering as high as 6ft! Each team chose their own rocket kit to build from, and assembled and decorated it according to their vision.  
 
-Build day allowed students to gain hands on experience working with the rocket motor, and gave them an opportunity to perform stability tests using a string and spinning the rocket around.
-The teams also familiarized themselves using OpenRocket software to conduct some rocket analysis and simulate flight. 
+Build Day allowed students to gain hands on experience working with a large variety of rocket related materials. Once the rockets were built, we performed stability tests on them using a string and spinning the rocket around to simulate flight. The teams also familiarized themselves with the OpenRocket software to conduct some rocket analysis and to simulate flight. 
 
-At the end of the day, we had a successful wet dress rehearsal at the beach, just before sunset with one of the rockets. 
+At the end of the day, we even had a successful wet dress rehearsal at the beach, just before sunset. Join our Slack channel for footage! ;)
 
 UBC Rocket would like to thank Geering Up for lending us their space and materials for the day. 
 
-Again, a huge thank you to [Imperial Hobbies][imperial]{:class="h-crimson"} and [Sunward Hobbies][sunward]{:class="h-crimson"} for their donation and for making the event happen!!
+Again, a huge thank you to [Imperial Hobbies][imperial]{:class="h-crimson"} and [Sunward Hobbies][sunward]{:class="h-crimson"} for their donation and for making the event happen!
 
 Stay tuned for Launch Day! 
 
+Check out more photos [here][Flickr]!
 
 ![photo](/images/blog/group-picture.jpg){:class="img-responsive center-block"}
 <span class="small">Team with their rockin' rockets.</span>
@@ -31,8 +31,6 @@ Stay tuned for Launch Day!
 
 ![photo](/images/blog/fin-test.jpg){:class="img-responsive center-block"}
 <span class="small">Fin test.</span>
-
-Check out more photos [here][Flickr]!
 
 [email]:  			mailto:hello@ubcrocket.com
 [imperial]: 		http://www.imperialhobbies.ca/
