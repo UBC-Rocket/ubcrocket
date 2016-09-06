@@ -11,7 +11,7 @@ email: hello@ubcrocket.com
 permalink: /blog/:categories/:year/:month/:day/:title
 description: UBC Rocket Engineering Design Team Website
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://sbambey.github.io" # the base hostname & protocol for your site
+url: "http://www.ubcrocket.com" # the base hostname & protocol for your site
 twitter_username: ubcrocket
 facebook_username: ubcrocket
 
