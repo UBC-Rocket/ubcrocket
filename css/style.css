@@ -682,7 +682,8 @@ iframe {
 }
 
 .brand-item img {
-  height: 60px;
+  max-height: 80px;
+  max-width: 150px;
 }
 
 .brand-item:first-child, .brand-item-large:first-child {
@@ -700,6 +701,11 @@ iframe {
 
 .sponsor-bronze {
   color: #CD7F32;
+  margin-top: 50px;
+}
+
+.sponsor-in-kind {
+  color: #000000;
   margin-top: 50px;
 }
 
