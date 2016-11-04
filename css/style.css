@@ -671,11 +671,16 @@ iframe {
   transition: 0.5s;
 }
 
-.brand-item, .brand-item-large {
+.brand-item, .brand-item-med, .brand-item-large {
   display: inline-block;
   margin-left:0px;
   margin-top: 20px;
   margin-bottom: 10px;
+  margin-left:20px;
+}
+
+.brand-item-med img {
+  height: 60px;
 }
 
 .brand-item-large img {
@@ -683,7 +688,7 @@ iframe {
 }
 
 .brand-item img {
-  max-height: 80px;
+  max-height: 50px;
   max-width: 150px;
 }
 
@@ -700,13 +705,13 @@ iframe {
   color: #FFDF00;
 }
 
-.sponsor-bronze {
-  color: #CD7F32;
+.sponsor-silver {
+  color: #c0c0c0;
   margin-top: 50px;
 }
 
-.sponsor-in-kind {
-  color: #000000;
+.sponsor-bronze {
+  color: #CD7F32;
   margin-top: 50px;
 }
 
