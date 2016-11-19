@@ -20,7 +20,7 @@ We have already made an exciting amount of progress in our design and now have a
 
 Prototyping is definitely a highlight for me so far – I was very enthusiastic about getting to work with the laser cutter for the first time, and to get some meaningful practice using Solidworks to model parts of our design. It’s been so exciting to get to do hands-on work and to start to see our design come to life! We plan to do more structural and circuit prototyping in the upcoming weeks, with the goal of having our signalling and sensor systems running by the end of December.
 
-Lastly, we would like to thank Dr. Douw Steyn, professor emeritus and Chair of Environmental Science Program at UBC, for his help with our project so far! We are open to any suggestions or advice you may have for regarding our project.Please feel free to reach out at [hello@ubcrocket.com][email].
+Lastly, we would like to thank Dr. Douw Steyn, professor emeritus and Chair of Environmental Science Program at UBC, for his help with our project so far! We are open to any suggestions or advice you may have for regarding our project. Please feel free to reach out at [hello@ubcrocket.com][email].
 
 -Serena Seraphim (Project Ozone Payloads team)
 
