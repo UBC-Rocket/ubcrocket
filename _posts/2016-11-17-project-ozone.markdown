@@ -16,7 +16,7 @@ The team that I am working with is Project Ozone, we are building one of three p
 We have already made an exciting amount of progress in our design and now have a good idea of what the interior of our payload will look like. Moving on from the design process, we have ordered most of our sensors, reached out to third parties for consultation, and begun finding and making parts to do some prototyping!
 
 ![photo](/images/blog/atm-pollution-design.JPG){:class="img-responsive center-block"}
-<span class="small">This is our current prototype design model. The square frame will have a rotating interior that holds our circuit. This design will be more challenging and add a degree of complexity to our payload. It will also allow us to receive different measurements.</span>
+<span class="small"> This is our current prototype design model. The square frame will have a rotating interior that holds our circuit. This design will be more challenging and add a degree of complexity to our payload. It will also allow us to receive different measurements.</span>
 
 Prototyping is definitely a highlight for me so far – I was very enthusiastic about getting to work with the laser cutter for the first time, and to get some meaningful practice using Solidworks to model parts of our design. It’s been so exciting to get to do hands-on work and to start to see our design come to life! We plan to do more structural and circuit prototyping in the upcoming weeks, with the goal of having our signalling and sensor systems running by the end of December.
 
