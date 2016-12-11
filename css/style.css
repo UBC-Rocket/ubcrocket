@@ -542,6 +542,12 @@ iframe {
   color: #f16000;
   font-weight: 900;
 }
+.find-out-more {
+  color: #888e99;
+  font-weight: 2000;
+  font-size: 20px;
+
+}
 .twitter-container {
   width: 300px;
 }
@@ -756,7 +762,7 @@ iframe {
 
 .quick-find {
   display: block;
-  border: 1px solid black;
+  border: 5px orange;
   width: 300px;
   padding: 20px;
   margin:0 auto 0 auto;
