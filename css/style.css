@@ -542,6 +542,9 @@ iframe {
   color: #f16000;
   font-weight: 900;
 }
+.twitter-container {
+  width: 300px;
+}
 
 /*======= Features =======*/
 
