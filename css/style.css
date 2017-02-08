@@ -1187,7 +1187,7 @@ iframe {
 }
 .home-form-left h2{
   line-height: 42px;
-  margin-top: 40px;
+  margin-top: 0;
 }
 .home-form-left p{
   width: 100%;
