@@ -1,4 +1,4 @@
-/*======= Reset ======== */
+logo/*======= Reset ======== */
 body {
   font-family: 'Roboto', sans-serif;
   color: #4c5667;
@@ -484,7 +484,7 @@ iframe {
 }
 
 .logo-image {
-  height: 50px;
+  height: 60px;
   width: auto;
 }
 
