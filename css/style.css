@@ -484,12 +484,12 @@ iframe {
 }
 
 .logo-image {
-  height: 80px;
+  height: 60px;
   width: auto;
 }
 
-.logo-header {
-  height: 60px;
+.logo-footer {
+  height: 80px;
   width: auto;
 }
 
