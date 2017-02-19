@@ -488,6 +488,11 @@ iframe {
   width: auto;
 }
 
+.logo-header {
+  height: 60px;
+  width: auto;
+}
+
 .navbar-toggle {
   font-size: 30px;
 }
