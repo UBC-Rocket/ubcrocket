@@ -697,8 +697,8 @@ iframe {
 }
 
 .brand-item img {
-  max-height: 50px;
-  max-width: 150px;
+  max-height: 100px;
+  max-width: 270px;
 }
 
 .brand-item:first-child, .brand-item-large:first-child {
