@@ -4,7 +4,7 @@ lead_title: ""
 title:  "Events Updates: T Minus One Month"
 date:   2017-5-7
 author:	Admin Team
-image_filename:	eventsfront.jpg
+image_filename:	eventsfront.JPG
 
 ---
 <h6>This year was been a year full of growth for the UBC Rocket team. Being invited to attend and present at events to the public has allowed us to develop and expand our connections, but also the public's interest in the STEM fields and space exploration. Below are a few events that we've participated in so far! </h6>

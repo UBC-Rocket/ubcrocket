@@ -32,7 +32,7 @@ Currently, the Recovery team is working to improve the parachute design and miti
 
 Each payload sub team is currently undergoing more prototyping and testing, and all teams are working to send a final 3U Cubesat (three unit cubesat) into the air. If you would like to view the most recent updates for Payloads and other subteams, please keep up on our social media platforms: <a href = "https://www.facebook.com/ubcrocket" target="_blank">Facebook</a>, <a href = "https://www.instagram.com/ubcrocket" target="_blank">Instagram</a>, and <a href = "https://www.twitter.com/ubcrocket" target="_blank">Twitter</a>
 
-![photo](/images/blog/Payloads1.jpg){:class="img-responsive center-block"}
+![photo](/images/blog/Payloads1.JPG){:class="img-responsive center-block"}
 <span class="small">A member of the EMECS subteam working hard on a part of the Paylods component of the rocket!</span>
 
 
