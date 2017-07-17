@@ -684,7 +684,7 @@ iframe {
   transition: 0.5s;
 }
 
-.brand-item, .brand-item-med, .brand-item-large, .brand-item-large-as {
+.brand-item, .brand-item-med, .brand-item-large, .brand-item-large-as, .brand-item-sm {
   display: inline-block;
   margin-left:0px;
   margin-top: 20px;
@@ -698,6 +698,10 @@ iframe {
 
 .brand-item-large img {
   height: 100px;
+}
+
+.brand-item-sm img {
+  height: 40px;
 }
 
 .brand-item-large-as img {
