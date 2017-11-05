@@ -684,7 +684,7 @@ iframe {
   transition: 0.5s;
 }
 
-.brand-item, .brand-item-med, .brand-item-large, .brand-item-large-as, .brand-item-sm {
+.brand-item, .brand-item-med, .brand-item-large, .brand-item-ex-large, .brand-item-large-as, .brand-item-sm {
   display: inline-block;
   margin-left:0px;
   margin-top: 20px;
@@ -700,6 +700,10 @@ iframe {
   height: 100px;
 }
 
+.brand-item-ex-large img {
+  height: 200px;
+}
+
 .brand-item-sm img {
   height: 40px;
 }
@@ -709,7 +713,7 @@ iframe {
 }
 
 .brand-item img {
-  max-height: 100px;
+  max-height: 200px;
   max-width: 270px;
 }
 
@@ -722,12 +726,17 @@ iframe {
   font-weight: bold;
 }
 
+.sponsor-plat {
+  color: #B1B0AA;/*#c0c0c0;*/       /*#B1B0AA; /* need better shade of plat */
+}
+
 .sponsor-gold {
-  color: #FFDF00;
+  /*color: #FFDF00;*/
+  color: #ffcf40;
 }
 
 .sponsor-silver {
-  color: #c0c0c0;
+  color: #CECDCB;/*#B1B0AA;*/ /*#c0c0c0;*/
   margin-top: 50px;
 }
 
