@@ -67,6 +67,10 @@
           <a href="{% if page.title != "Home" %}{{ site.baseurl }}/{% endif %}#sponsors">Sponsors</a>
         </li>
 
+        <li {% if page.url == "/news/" %}class="active"{% endif %}>
+          <a href="{{ site.baseurl }}/news">News</a>
+        </li>
+
         <li {% if page.url == "/blog/" %}class="active"{% endif %}>
           <a href="{{ site.baseurl }}/blog">Blog</a>
         </li>
