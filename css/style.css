@@ -466,9 +466,11 @@ iframe {
   font-size: 14px !important;
   margin-top: 9px !important;
   background-color: transparent !important;
-  border: 2px solid #4C5667 !important;
-  color: #4C5667 !important;
+  border: 2px solid #f16000 !important;
+  color: #f16000 !important;
   border-radius: 5px;
+
+  /* og color: #4C5667 */
 }
 
 .logo {
