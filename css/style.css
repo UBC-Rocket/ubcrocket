@@ -466,8 +466,8 @@ iframe {
   font-size: 14px !important;
   margin-top: 9px !important;
   background-color: transparent !important;
-  border: 2px solid #f16000 !important;
-  color: #f16000 !important;
+  border: 2px solid #224785 !important;
+  color: #224785 !important;
   border-radius: 5px;
 
   /* og color: #4C5667 */
@@ -554,7 +554,7 @@ iframe {
   width: 85%;
 }
 .highlight {
-  color: #f16000;
+  color: #224785;
   font-weight: 900;
 }
 .find-out-more {
