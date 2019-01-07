@@ -1270,6 +1270,11 @@ iframe {
     padding-left: 30px;
     padding-right: 30px;
   }
+  .auto-resize {
+    display: block;
+    width:80%;
+    margin:0 auto 0 auto;
+  }
 }
 
 @media (max-width: 768px) {
@@ -1286,6 +1291,9 @@ iframe {
   }
   .footer h5 {
     margin-top: 30px;
+  }
+  .auto-resize {
+    width:100%;
   }
 }
 
