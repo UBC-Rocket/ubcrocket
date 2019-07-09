@@ -466,9 +466,11 @@ iframe {
   font-size: 14px !important;
   margin-top: 9px !important;
   background-color: transparent !important;
-  border: 2px solid #4C5667 !important;
-  color: #4C5667 !important;
+  border: 2px solid #224785 !important;
+  color: #224785 !important;
   border-radius: 5px;
+
+  /* og color: #4C5667 */
 }
 
 .logo {
@@ -552,7 +554,7 @@ iframe {
   width: 85%;
 }
 .highlight {
-  color: #f16000;
+  color: #224785;
   font-weight: 900;
 }
 .find-out-more {
@@ -684,7 +686,7 @@ iframe {
   transition: 0.5s;
 }
 
-.brand-item, .brand-item-med, .brand-item-large, .brand-item-large-as {
+.brand-item, .brand-item-med, .brand-item-large, .brand-item-ex-large, .brand-item-large-as, .brand-item-sm, .brand-item-ex-sm {
   display: inline-block;
   margin-left:0px;
   margin-top: 20px;
@@ -700,12 +702,24 @@ iframe {
   height: 100px;
 }
 
+.brand-item-ex-large img {
+  height: 170px;
+}
+
+.brand-item-sm img {
+  height: 40px;
+}
+
+.brand-item-ex-sm img {
+  height: 25px;
+}
+
 .brand-item-large-as img {
   height: 80px;
 }
 
 .brand-item img {
-  max-height: 100px;
+  max-height: 200px;
   max-width: 270px;
 }
 
@@ -718,12 +732,17 @@ iframe {
   font-weight: bold;
 }
 
+.sponsor-plat {
+  color: #B1B0AA;/*#c0c0c0;*/       /*#B1B0AA; /* need better shade of plat */
+}
+
 .sponsor-gold {
-  color: #FFDF00;
+  /*color: #FFDF00;*/
+  color: #ffcf40;
 }
 
 .sponsor-silver {
-  color: #c0c0c0;
+  color: #CECDCB;/*#B1B0AA;*/ /*#c0c0c0;*/
   margin-top: 50px;
 }
 
@@ -1251,6 +1270,11 @@ iframe {
     padding-left: 30px;
     padding-right: 30px;
   }
+  .auto-resize {
+    display: block;
+    width:80%;
+    margin:0 auto 0 auto;
+  }
 }
 
 @media (max-width: 768px) {
@@ -1267,6 +1291,9 @@ iframe {
   }
   .footer h5 {
     margin-top: 30px;
+  }
+  .auto-resize {
+    width:100%;
   }
 }
 
