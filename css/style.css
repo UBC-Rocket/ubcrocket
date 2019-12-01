@@ -888,6 +888,14 @@ iframe {
   transition: all 0.5s ease-in-out;
 }
 
+.contact-us li a {
+  display: inline-block;
+  margin-top: 50px;
+  color: #4c5667;
+  width: 75px;
+}
+
+
 .social-circle li a:hover {
   color: #ffffff !important;
 }
