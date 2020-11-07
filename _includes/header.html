@@ -1,0 +1,107 @@
+<!--<header class="site-header">
+
+  <div class="wrapper">
+
+    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+
+    <nav class="site-nav">
+      <a href="#" class="menu-icon">
+        <svg viewBox="0 0 18 15">
+          <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+          <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+          <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+        </svg>
+      </a>
+
+      <div class="trigger">
+        {% for my_page in site.pages %}
+          {% if my_page.title %}
+          <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+          {% endif %}
+        {% endfor %}
+      </div>
+    </nav>
+
+  </div>
+
+</header>-->
+<div class="navbar navbar-custom sticky" role="navigation">
+  <div class="container">
+    <!-- Navbar-header -->
+    <div class="navbar-header">
+      <!-- Responsive menu button -->
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+          <i class="zmdi zmdi-menu"></i>
+      </button>
+
+      <!-- LOGO -->
+      <a class="navbar-brand logo" href="{{ site.baseurl }}/">
+        <span><img src="/images/logo.png" class="logo-image"></span>
+      </a>
+
+    </div>
+    <!-- end navbar-header -->
+
+    <!-- menu -->
+    <div class="navbar-collapse collapse" id="navbar-menu">
+
+      <div class="nav navbar-nav navbar-custom-left">
+        <li{% if page.url == "/"%} class="active"{% endif %}>
+          <a href="{{ site.baseurl }}/">Home</a>
+        </li>
+
+        <li>
+          <a href="{% if page.title != Home %}{{ site.baseurl }}/{% endif %}#WWD">What We Do</a>
+        </li>
+      <!--JOIN UBCR-->
+        <li>
+          <a href="{% if page.title != Home %}{{ site.baseurl }}/{% endif %}#join">Join Our Team</a>
+        </li>
+      
+      
+        <li>
+          <a href="{% if page.title != Home %}{{ site.baseurl }}/{% endif %}#faq">FAQ</a>
+        </li>
+
+        <li>
+          <a href="{% if page.title != Home %}{{ site.baseurl }}/{% endif %}#contact">Contact Us</a>
+        </li>
+
+        <li>
+          <a href="{% if page.title != Home %}{{ site.baseurl }}/{% endif %}#sponsors">Sponsors</a>
+        </li>
+
+        <li {% if page.url == "/news/" %}class="active"{% endif %}>
+          <a href="{{ site.baseurl }}/news">News</a>
+        </li>
+
+<!--
+        <li {% if page.url == "/blog/" %}class="active"{% endif %}>
+          <a href="{{ site.baseurl }}/blog">Blog</a>
+        </li>
+-->
+
+<!--
+        <li>
+          <a href="https://docs.google.com/forms/d/e/1FAIpQLScVXhhbWgDlJMKw5o47ZsP-xBVqZn3YGYSbPjc01dXaxft58Q/viewform" class="active" target="_blank">Subscribe</a>
+        </li>
+-->
+<!--
+        <li>
+          <a href="https://goo.gl/forms/TJrZDWYqNOoRBIHx1" target="_blank">Contact Us</a>
+        </li>
+-->
+
+
+
+        <li>
+          <a href="https://donate.support.ubc.ca/page/20924/donate/1?transaction.dirgift=UBC+Rocket%20G1883" class="btn btn-inverse btn-bordered navbar-btn" target="_blank">Sponsor Us</a>
+        </li>
+
+      </div>
+    </div>
+    <!--/Menu -->
+  </div>
+  <!-- end container -->
+</div>
+<!-- End navbar-custom -->

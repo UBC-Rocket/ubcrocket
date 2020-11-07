@@ -1,0 +1,16 @@
+---
+layout: post
+lead_title: ""
+title:  "Our New Logo"
+date:   2017-2-19
+author:	Sandy Wan
+image_filename:	squarelogo1.png
+
+---
+Ambition, growth, and passion from our team has inspired the creation of our new logo. 
+
+10 months ago, UBC Rocket didn’t exist, but a deep passion for rockets did. Stemming from the dreams of space travel and continuous dedication from our members, UBC Rocket now provides an engaging, hands-on learning platform for our 60 members who share the same drive and love for engineering. 
+
+With the long term goal of launching a rocket to 300,000 feet, we wanted to express our ambition through the simplest, yet arguably most challenging design task of the team - our logo. With bold lettering, sleek lines, and a modern design, we hope to share with you our story of ambition, growth and pursuit for the stars. 
+
+Thank you to Howard Huang for designing our new logo!

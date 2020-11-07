@@ -1,0 +1,39 @@
+---
+layout: post
+lead_title: ""
+title:  "Build Day"
+date:   2016-08-29
+author:	Christel Nicolas
+image_filename:	galaxy-3000.jpg
+---
+
+Hello!
+-------
+Thank you to everyone who came out on Build Day! We are so glad to have met all of you at this team bonding event. Four fantastic rockets were built by 20 of our own UBC students. The rockets were snazzily decorated in bright and loud colours, and came in various sizes, with one towering as high as 6ft! Each team chose their own rocket kit to build from, and assembled and decorated it according to their vision.  
+
+Build Day allowed students to gain hands on experience working with a large variety of rocket related materials. Once the rockets were built, we performed stability tests on them using a string and spinning the rocket around to simulate flight. The teams also familiarized themselves with the OpenRocket software to conduct some rocket analysis and to simulate flight. 
+
+At the end of the day, we even had a successful wet dress rehearsal at the beach, just before sunset. Join our Slack channel for footage! ;)
+
+UBC Rocket would like to thank Geering Up for lending us their space and materials for the day. 
+
+Again, a huge thank you to [Imperial Hobbies][imperial]{:class="h-crimson"} and [Sunward Hobbies][sunward]{:class="h-crimson"} for their donation and for making the event happen!
+
+Stay tuned for Launch Day! 
+
+Check out more photos [here][Flickr]!
+
+![photo](/images/blog/group-picture.jpg){:class="img-responsive center-block"}
+<span class="small">Team with their rockin' rockets.</span>
+
+![photo](/images/blog/stability-test.jpg){:class="img-responsive center-block"}
+<span class="small">Stability test.</span>
+
+![photo](/images/blog/fin-test.jpg){:class="img-responsive center-block"}
+<span class="small">Fin test.</span>
+
+[email]:  			mailto:hello@ubcrocket.com
+[imperial]: 		http://www.imperialhobbies.ca/
+[sunward]: 			http://www.sunwardhobbies.ca/
+[title-image]:	https://www.flickr.com/photos/osunick/3126963605/in/photolist-5LjvkB-3jgAPm-6LmM7o-uhu5aQ-iw5dU-iw5gM-6BJjMA-hS3Tg-4YjjvY-kanTr-kanUP-jwpFH-5RV54-6kvtdc-9Wk2qT-cNcL7u-cVC13h-f54NzP-6FRf-2Cq2d-FR1JP-6mNHcj-cVC1a7-9Xp1fH-bYk2Dj-5fy1Y8-4Mx2rz-aNk2Bc-2CP9-cUfCfJ-DmnAU-9fF33u-kanWe-9RL7m-bjYz34-Hxvkm-6LmM87-bjYy5T-4aC8y-4yGPZR-6BEbxT-4yGQeK-auMdhP-obs73m-4NTv5z-bPyGNB-dEphto-auMcux-4ZeEe4-9RKS6
+[Flickr]: https://www.flickr.com/photos/ubcrocket/sets/72157673098705845

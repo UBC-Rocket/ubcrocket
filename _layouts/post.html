@@ -1,0 +1,55 @@
+---
+layout: default
+---
+<!--<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
+    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
+  </header>
+
+  <div class="post-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+
+</article>-->
+
+<!-- HOME -->
+<section class="home">
+  <!-- <div class="bg-overlay"></div> -->
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12">
+
+        <div class="home-wrapper home-wrapper-sm text-center">
+          <h2 class="animated fadeInDown wow" data-wow-delay=".1s">
+            {{ page.lead_title }} <span class="text-colored">{{ page.title }}</span>
+          </h2>
+        </div><!-- home wrapper -->
+
+      </div> <!-- end col -->
+    </div> <!-- end row -->
+  </div> <!-- end container -->
+</section>
+<!-- END HOME -->
+
+
+
+<!-- Single Post -->
+<section class="section blog-detail">
+  <div class="container">
+
+    <div class="row">
+      <div class="col-md-8 col-md-offset-2">
+        
+        <div class="blog-detail-box">
+
+        	{{ content }}
+
+
+        </div><!-- End blog-detail-box -->
+
+      </div> <!-- end col -->
+    </div>
+  </div>
+</section>
