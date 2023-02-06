@@ -1,0 +1,193 @@
+<style>
+
+    body {
+        background-image: url('../images/mission_control_images/noah.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    .button-group {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: row;
+    }
+        
+    .button {
+        background: linear-gradient(to top, rgba(255, 255, 255, 0.6), rgba(116, 116, 116, 0.6));
+        border: none;
+        border-radius: 5px;
+        color: rgb(0, 0, 0);
+        padding: 60px;
+        text-align: center;
+        text-decoration: none;
+        display: block;
+        margin: 20px;
+        width: 400px;
+        transition: all 0.3s ease;
+    }
+
+    .button_title_text {
+        font-weight: 900;
+        font-size: 22px;
+        color: #002052 !important;
+        letter-spacing: 1px;
+        margin-right: 20px;
+        font-family: 'Montserrat', sans-serif;
+    }
+
+    .button_subtitle_text {
+        font-family: 'Material-Design-Iconic-Font', sans-serif;
+        font-size: 16px;
+        margin-top: 10px;
+        justify-content: center;
+        color: #002052 !important;
+    }
+
+    button:hover {
+        transform: scale(1.1);
+        box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    }
+
+    .console_background {
+        background-color: rgba(255, 255, 255, 0.3);
+        padding: 30px;
+        width: 900px;
+        margin: auto;
+    }
+
+    h1 {
+        color: rgb(0, 0, 0);
+        font-family: 'Material-Design-Iconic-Font', sans-serif;
+        text-align: center;
+        font-size: 36px;
+        margin-top: 50px;
+        opacity: 100%;
+    }
+
+    a {
+        display: inline-block;
+        text-decoration: none;
+    }
+
+    .banner {
+        background-color: rgba(192, 192, 192, 0.6);
+        color: #fff;
+        padding: 30px;
+        width: 900px;
+        margin: auto;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    img {
+        height: 90px;
+        width: auto;
+    }
+
+    .title_text{
+    font-weight: 600;
+    font-size: 40px;
+    color: #002052 !important;
+    letter-spacing: 1px;
+    margin-right: 20px;
+    font-family: 'Montserrat', sans-serif;
+    }
+
+</style>
+
+<script>
+    var images = [
+        '/mission_control_images/viki.JPG', 
+        '/mission_control_images/nathan_getting_that_bread.jpg', 
+        '/mission_control_images/simon.jpg', 
+        '/mission_control_images/nathan.jpg',
+        '/mission_control_images/thomas.jpg', 
+        '/mission_control_images/josh.jpg', 
+        '/mission_control_images/the_boys.jpg',
+        '/mission_control_images/olly.jpg',
+        '/firsthotfire.jpg',
+        '/cypressCarry.jpg',
+        '/rocket_sky.jpg',
+        '/trophy.jpg',
+        '/mission_control_images/cypress_in_edc.jpg', 
+        '/Silvertip.jpg',
+        '/mission_control_images/tanty.png'
+    ];
+    var i = 0;
+    
+    function changeBackground() {
+        document.body.style.backgroundImage = 'url(' + '../images' + images[i] + ')';
+        i = (i + 1) % images.length;
+    }
+    
+    setInterval(changeBackground, 4500); // change background every 4.5 seconds
+</script>
+
+<body>
+
+        <section>
+            <div class="banner">
+                <img src="../images/logo.png" alt="Header Image">
+                <h1 class="title_text">Mission Control</h1>
+            </div>
+                
+            <div class="console_background">
+                <div class="button-group">
+                    <a href="https://docs.google.com/document/d/1iJY8NK-Zs6bLdTmGkFDPKtPPFLZWUKtJngYtiIlw-9c/edit?usp=sharing">
+                        <button class="button">
+                            <span class="button_title_text">SOPs/SWPs</span>
+                            <br>
+                            <span class="button_subtitle_text">🦺 Safety documents 🦺</span>
+                        </button>
+                    </a>
+                    <a href="https://docs.google.com/document/d/1iJY8NK-Zs6bLdTmGkFDPKtPPFLZWUKtJngYtiIlw-9c/edit?usp=sharing">
+                        <button class="button">
+                                <span class="button_title_text">Finances</span>
+                                <br>
+                                <span class="button_subtitle_text">💵 Budgets and reimbursements 💵</span>
+                        </button>
+                    </a>
+                </div>
+
+                <div class="button-group">
+                    <a href="https://docs.google.com/document/d/1iJY8NK-Zs6bLdTmGkFDPKtPPFLZWUKtJngYtiIlw-9c/edit?usp=sharing">
+                        <button class="button">
+                            <span class="button_title_text">Anonymous Feedback</span>
+                            <br>
+                            <span class="button_subtitle_text">🤔 What's on your mind? 🤔</span>
+                        </button>
+                    </a>
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSdGbWlcXNsRaJJOlQQRafaEf-zJXP7oi83bDkTACRuHlh0ACw/viewform?pli=1">
+                        <button class="button">
+                            <span class="button_title_text">Merch Orders</span>
+                            <br>
+                            <span class="button_subtitle_text">😎 Drip 😎</span>
+                        </button>
+                    </a>
+                </div> 
+
+                <div class="button-group">
+                    <a href="https://www.youtube.com/c/EverydayAstronaut?app=desktop">
+                        <button class="button">
+                            <span class="button_title_text">Learning Center</span>
+                            <br>
+                            <span class="button_subtitle_text">🧠 Grow that brain 🧠</span>
+                        </button>
+                    </a>
+                    <a href="https://ubcrocket.slack.com/archives/CJG2V7J0Y">
+                        <button class="button">
+                            <span class="button_title_text">Meme Center</span>
+                            <br>
+                            <span class="button_subtitle_text">🌶️ Crucial 🌶️</span>
+                        </button>
+                    </a>
+                </div> 
+
+            </div>
+
+
+        </section>
+
+</body>
