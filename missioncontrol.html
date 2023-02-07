@@ -1,0 +1,184 @@
+---
+title: Mission Control
+permalink: /missioncontrol/
+---
+
+<style>
+
+    body {
+        background-image: url('../images/Silvertip.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    .button-group {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: row;
+    }
+        
+    .button {
+        background: linear-gradient(to top, rgba(255, 255, 255, 0.6), rgba(116, 116, 116, 0.6));
+        border: none;
+        padding: 60px;
+        text-align: center;
+        display: block;
+        margin: 20px;
+        width: 400px;
+        transition: all 0.3s ease;
+    }
+
+    .button_title_text {
+        font-family: 'Arial', sans-serif;
+        font-size: 22px;
+        font-weight: 900;
+        color: #002052 !important;
+    }
+
+    .button_subtitle_text {
+        font-family: 'Arial', sans-serif;
+        font-size: 16px;
+        color: #002052 !important;
+    }
+
+    button:hover {
+        transform: scale(1.1);
+        box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    }
+
+    .console_background {
+        background-color: rgba(255, 255, 255, 0.3);
+        padding: 30px;
+        width: 900px;
+        margin: auto;
+    }
+
+    a {
+        display: inline-block;
+        text-decoration: none;
+    }
+
+    .banner {
+        background-color: rgba(192, 192, 192, 0.6);
+        color: #fff;
+        padding: 0px;
+        width: 960px;
+        margin: auto;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    img {
+        height: 50px;
+        width: auto;
+    }
+
+    .title_text{
+        font-family: 'Arial', sans-serif;
+        font-weight: 600;
+        font-size: 50px;
+        color: #002052 !important;
+        margin-right: 20px;
+        margin-top: 20px;
+        margin-bottom: 0px;
+    }
+
+</style>
+
+<script>
+    var images = [
+        '/mission_control_images/viki.JPG', 
+        '/mission_control_images/noah.JPG',
+        '/mission_control_images/nathan_getting_that_bread.JPG', 
+        '/mission_control_images/simon.JPG', 
+        '/mission_control_images/nathan.JPG',
+        '/mission_control_images/thomas.jpg', 
+        '/mission_control_images/josh.JPG', 
+        '/mission_control_images/olly.JPG',
+        '/firsthotfire.jpg',
+        '/cypressCarry.jpg',
+        '/rocket_sky.jpg',
+        '/trophy.jpg',
+        '/mission_control_images/cypress_in_edc.jpg', 
+        '/Silvertip.jpg',
+        '/mission_control_images/tanty.png'
+    ];
+    var i = 0;
+    
+    function changeBackground() {
+        document.body.style.backgroundImage = 'url(' + '../images' + images[i] + ')';
+        i = (i + 1) % images.length;
+    }
+    
+    setInterval(changeBackground, 4500); // change background every 4.5 seconds
+</script>
+
+<body>
+
+        <section>
+            <div class="banner">
+                <h1 class="title_text">Mission Control</h1>
+                <img src="../images/logo.png" alt="Header Image">
+            </div>
+                
+            <div class="console_background">
+                <div class="button-group">
+                    <a href="https://docs.google.com/document/d/1kvb33mMz6nvBDilu2nK6vVqYF7WZvavXI158yD695GM/edit?usp=sharing" target="_blank">
+                        <button class="button">
+                            <span class="button_title_text">Codes of Conduct</span>
+                            <br>
+                            <span class="button_subtitle_text">🦺 Safety and standards 🦺</span>
+                        </button>
+                    </a>
+                    <a href="https://docs.google.com/document/d/1iJY8NK-Zs6bLdTmGkFDPKtPPFLZWUKtJngYtiIlw-9c/edit?usp=sharing" target="_blank">
+                        <button class="button">
+                                <span class="button_title_text">Finances</span>
+                                <br>
+                                <span class="button_subtitle_text">💵 Budgets and reimbursements 💵</span>
+                        </button>
+                    </a>
+                </div>
+
+                <div class="button-group">
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSe1entmRysZhGDu-fFjWpOZrOzHS9wtaKeewXDIJSsdDZPo7g/viewform?usp=sf_link" target="_blank">
+                        <button class="button">
+                            <span class="button_title_text">Anonymous Feedback</span>
+                            <br>
+                            <span class="button_subtitle_text">🤔 What's on your mind? 🤔</span>
+                        </button>
+                    </a>
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSfWp5hkNOZiEM6NoKgtJTS-huRfWaUsWVYGebpqzePuKyt9dw/viewform?usp=sf_link" target="_blank">
+                        <button class="button">
+                            <span class="button_title_text">Merch Orders</span>
+                            <br>
+                            <span class="button_subtitle_text">😎 Drip 😎</span>
+                        </button>
+                    </a>
+                </div> 
+
+                <div class="button-group">
+                    <a href="https://docs.google.com/document/d/1B1slx4wc3cW9oa-BEF2iAh2Gz3wdBhibGPxsbGRT5Gw/edit?usp=sharing" target="_blank"> 
+                        <button class="button">
+                            <span class="button_title_text">Learning Center</span>
+                            <br>
+                            <span class="button_subtitle_text">🧠 Grow your brain 🧠</span>
+                        </button>
+                    </a>
+                    <a href="https://ubcrocket.slack.com/archives/CJG2V7J0Y" target="_blank">
+                        <button class="button">
+                            <span class="button_title_text">Meme Center</span>
+                            <br>
+                            <span class="button_subtitle_text">🌶️ Crucial 🌶️</span>
+                        </button>
+                    </a>
+                </div> 
+
+            </div>
+
+
+        </section>
+
+</body>
